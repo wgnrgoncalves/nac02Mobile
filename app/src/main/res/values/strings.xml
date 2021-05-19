@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">nac002</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">NAC 02</string>
+    <string name="Calcular">Calcular</string>
+    <string name="soma">Soma</string>
 </resources>
